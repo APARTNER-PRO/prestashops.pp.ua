@@ -1,1 +1,0 @@
-# prestashops.pp.ua
